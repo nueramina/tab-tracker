@@ -2,6 +2,16 @@
 
 > A Vue.js project
 
+1.npm init
+2.npm init -g vue-cli
+3.vue init webpack <project-name>
+
+4.git add -all
+5.git commit -m 'xxx'
+6.git push
+
+
+
 ## Build Setup
 
 ``` bash
